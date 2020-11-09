@@ -1,6 +1,6 @@
 # komik-rest-api
 
-[https://murmuring-crag-47127.herokuapp.com/api](Demo)
+[Open Demo](https://murmuring-crag-47127.herokuapp.com/api)
 
 ## Installation
 

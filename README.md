@@ -1,5 +1,7 @@
 # komik-rest-api
 
+[https://murmuring-crag-47127.herokuapp.com/api](Demo)
+
 ## Installation
 
 * Clone the Repo
@@ -36,7 +38,7 @@ Then open [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 | ------------- |:-------------:| :-----:| 
 | /api      | page | Number | 
 | /api/list  | page | Number | 
-| /project  | page | Number | 
+| /api/project  | page | Number | 
 | /api/complete  | page | Number | 
 | /api/jadwal  | - | - | 
 | /api/komik  | id | String | 
